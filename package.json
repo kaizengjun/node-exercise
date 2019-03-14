@@ -1,0 +1,18 @@
+{
+  "name": "node-exercise",
+  "description": "Some litte project with Node.js.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.2",
+    "htmlparser": "^1.7.7",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
